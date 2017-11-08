@@ -1,4 +1,5 @@
 skjasjkahfkajfhakjaakj
+<<<<<<< HEAD
 
 
 
@@ -7,3 +8,6 @@ jdfhsdjkfhsdjkfhs
 jdfjksdfjksdhf
 ljhdfkjsdhfjksd
 
+=======
+hello mostafa
+>>>>>>> b4bda88fba345ed993f507368c300b82ad49a6eb
